@@ -90,28 +90,12 @@
 ![](https://github-profile-trophy.vercel.app/?username=Unreala9&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)
 </div>
 
-## 🔥 My Top Projects
-<div align="center">
 
-| # | Project | Description | Tech Stack | Links |
-|---|---------|-------------|------------|-------|
-| 1 | **[Portfolio Website](https://github.com/Unreala9/portfolio)** | Personal portfolio with modern animations | React, Tailwind, Framer Motion | ![GitHub stars](https://img.shields.io/github/stars/Unreala9/portfolio?style=social) |
-| 2 | **[Task Manager](https://github.com/Unreala9/task-manager)** | Full-stack task management app | MERN, Redux, Socket.io | ![GitHub stars](https://img.shields.io/github/stars/Unreala9/task-manager?style=social) |
-| 3 | **[E-commerce Dashboard](https://github.com/Unreala9/ecommerce-dashboard)** | Admin dashboard with charts | Next.js, Tailwind, Chart.js | ![GitHub stars](https://img.shields.io/github/stars/Unreala9/ecommerce-dashboard?style=social) |
-
-*Update these with your actual top repos!*
-
-</div>
 
 ### ✍️ Random Dev Quote
-<div align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-</div>
 
-## 📈 Activity Graph
-<div align="center">
-![](https://github-readme-activity-graph.vercel.app/graph?username=Unreala9&theme=react-dark&hide_border=true)
-</div>
+
 
 ---
 <div align="center">
