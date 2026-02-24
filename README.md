@@ -100,12 +100,7 @@
 ---
 <div align="center">
 **🤝 Let's connect! I'm always open to exciting collaborations and learning opportunities.**
-<br><br>
-[![GitHub followers](https://img.shields.io/github/followers/Unreala9?label=Follow&style=social)](https://github.com/Unreala9)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=%23FF7139)](https://your-portfolio-link.com)
+
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=Unreala9&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
